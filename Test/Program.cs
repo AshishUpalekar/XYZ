@@ -19,7 +19,7 @@ namespace Test
         public static ArrayList fileList = new ArrayList();
         public static Dictionary<string, string> processorDetails2 = new Dictionary<string, string>();
         public static ArrayList cutomProcessorList = new ArrayList();
-        public static ArrayList processorDetails = new ArrayList();
+        public static ArrayList processorDetails = new ArrayList(); 
 
         public Program()
         {
